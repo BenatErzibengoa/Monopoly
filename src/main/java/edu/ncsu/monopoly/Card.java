@@ -10,5 +10,6 @@ public abstract class Card {
     public abstract int getCardType();
     //I have added a comment
     //This is another comment
+    //The last commit, I hope!
 }
 
