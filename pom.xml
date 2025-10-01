@@ -51,7 +51,7 @@
 		<sonar.organization>benaterzibengoa</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>benaterzibengoa_monopolylaboci</sonar.projectKey>
-		<sonar.login>6b64c666c4e0a3f821777b4e82f26a847ed02d2b</sonar.login>
+		<sonar.login>63f5932fac36bc7000e5da4ae4a7559f6ff11ee4</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
